@@ -28,3 +28,17 @@
     * Driver: SELECT * FROM users
     * Query Builder: table('users').select('*').
     */
+
+About REACT
+
+O react monta a estrutura da pagina o HMTL, CSS a partir do JavaScript.
+O JavaScript executa quando o HTML da pasta public/index.html ja esta montado em tela.
+Joga o HMTL em tela e depois o JavaScript entra e preenche a div root com o restante do codigo.
+
+Componente no REACT e uma funcao que retorna HTML.
+
+Propriedade
+ 
+Estado informacao que vai ser mantida pelo componente.
+
+Imutabilildade
